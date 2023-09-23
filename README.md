@@ -1,3 +1,19 @@
+~~~
+
+Команди: npm install -g typescript -> встановлення TypeScript 
+tsc --init -> Ця команда створить файл tsconfig.json, який містить стандартні налаштування TypeScript. 
+tsc -> компіляція 
+tsc test.ts -w -> запуск програми реальному часі 
+npm init -y -> встановлення сервера @web/dev-server 
+npm i --save-dev @web/dev-server -> і сам сервер 
+---Зробити налаштування package.json
+
+npm start -> запуск програми
+
+~~~
+
+
+
 # Базові типи
 
 Метою цього домашнього завдання є закріплення ваших навичок роботи з базовими типами TypeScript. Ви будете працювати з типами, такими як number, string, boolean, null, undefined, unknown, any, а також кортежами, переліками (enum) та об'єднаннями типів.
